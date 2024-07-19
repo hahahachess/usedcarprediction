@@ -3,12 +3,12 @@
 The objective of the project is to predict the price of used cars in Australia based on their condition.
 
 Completed:
+1) Data validation
+2) Data cleansing and transformation
+3) Fitted tree-based models such as decision trees, random forests, and gradient boosting machines
+4) Fitted two different neural network architecture models
 
-Data validation
-Data cleansing and transformation
-Fitted tree-based models such as decision trees, random forests, and gradient boosting machines
-Fitted two different neural network architecture models
 To be done:
 
-Deploy the best model as a tool for the public
-Update the model by sourcing the latest dataset
+5) Deploy the best model as a tool for the public
+6) Update the model by sourcing the latest dataset
